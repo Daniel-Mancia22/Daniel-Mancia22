@@ -1,22 +1,21 @@
-<h1 align="center">Hi , I'm Daniel Mancia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, Soy Daniel Mancia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
-<p>Soy un desarrollador apasionado por la creación de software. Me encanta resolver problemas, diseñar interfaces innovadoras y aprender nuevas tecnologías. Disfruto trabajando en proyectos desafiantes que me permiten combinar mi creatividad con mis habilidades técnicas para construir soluciones efectivas y atractivas. Estoy siempre en busca de nuevas oportunidades para mejorar mis conocimientos y habilidades, y de colaborar en proyectos que marquen una diferencia.</p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<p>Soy estudiante de ingeniería en sistemas computacionales, actualmente me encuentro en el octavo ciclo de la carrera y estoy ampliando mis conocimientos tanto en el desarrollo Frontend como en el Backend. Soy una persona apasionada por la creación de software, me gusta resolver problemas, diseñar interfaces innovadoras y aprender nuevas tecnologías. Disfruto trabajar en proyectos que me permiten implementar mis habilidades técnicas para construir soluciones efectivas y atractivas. Actualmente estoy en busca de nuevas oportunidades para mejorar mis conocimientos y habilidades.</p>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
 
-- :school: I am a fourth-year student at the Faculty of Engineering and Natural Sciences at the [University of Sonsonate](http://suez.edu.eg/ar/).
+- :school: Soy estudiante de cuarto año de la Facultad de Ingeniería y Ciencias Naturales de la [Universidad de Sonsonate](http://suez.edu.eg/ar/](https://www.usonsonate.edu.sv/)).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I am currently studying `Computer Systems Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :student: Actualmente estoy estudiando `Ingeniería en Sistemas Computacionales`.
+- :nerd_face: Siempre `aprendiendo cosas nuevas`.
+- :thinking: Actualmente estoy abierto a una nueva  `oportunidad laboral`, este es [Mi CV](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: Puedes visitar [MI SITIO WEB](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
 <!--h1 without bottom border-->
