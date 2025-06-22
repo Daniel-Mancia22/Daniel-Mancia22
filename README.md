@@ -11,7 +11,7 @@
 - :technologist: Me gusta la idea de poder solucionar `problemas` a través de mi `Computadora.`
 - :nerd_face: Siempre busco la manera de `aprender cosas nuevas.`
 - :computer: Me gusta ver `Videos tutotriales` y `cursos` en youtube.
-- :video_camare: Me gusta editar `videos` y `fotos.`
+- :video_camera: Me gusta editar `videos` y `fotos.`
 - :thinking: Me encuentro abierto a una `oportunidad laboral`, este es [Mi CV.]()
 - :boom: Puedes visitar [MI SITIO WEB.]()
 <br>
