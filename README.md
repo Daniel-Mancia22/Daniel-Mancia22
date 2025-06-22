@@ -18,12 +18,13 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
       <summary><h2 style="display: inline-block">Técnologias que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,py,js,html,css,mysql,postgres,react,ts,nodejs,express,figma,github,git,postman&perline=14" />
   </a>
