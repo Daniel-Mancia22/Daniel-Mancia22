@@ -19,14 +19,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul>
-      <summary><h2 style="display: inline-block">Técnologias que conozco👨🏻‍💻</h2></summary>
+      <summary><h2 style="display: inline-block">Lenguajes y Herramientas que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,py,js,html,css,mysql,postgres,react,ts,nodejs,express,figma,github,git,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,nodejs,vscode,mysql,postgres,react,ts,express,cpp,figma,github,git,postman&perline=14" />
   </a>
 </p><br>
 
