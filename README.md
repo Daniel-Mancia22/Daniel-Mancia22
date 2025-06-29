@@ -13,7 +13,7 @@
 - :computer: Me gusta ver `Videos tutotriales` y `cursos` en youtube.
 - :video_camera: Me gusta editar `videos` y `fotos.`
 - :thinking: Me encuentro abierto a una `oportunidad laboral`, este es [Mi CV.]()
-- :boom: Puedes `Contactarme` en [Linkedin](https://www.linkedin.com/in/josué-daniel-mancia-flores-9b973b36b/) o al correo [danielmancia368@gmail.com](mailto:danielmancia368@gmail.com)
+- :boom: Puedes `Contactarme` en [Linkedin](https://www.linkedin.com/in/josué-daniel-mancia-flores-9b973b36b/) o al correo [dmancia299@gmail.com](mailto:dmancia299@gmail.com)
 <br>
 
 <!--h1 without bottom border-->
@@ -53,6 +53,6 @@
 
   <p align="left">
   <a href="https://www.linkedin.com/in/josué-daniel-mancia-flores-9b973b36b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="mailto:danielmancia368@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
+  <a href="mailto:dmancia299@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
   </p>
   </div>
