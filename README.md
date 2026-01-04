@@ -49,6 +49,9 @@
 </table>
  <br><br><br><br><br><br><br><br>
 
+ <br>
+ <br>
+
 <h2 style="display: inline-block">Como Contactarme 👨🏻‍💻</h2>
 
   <p align="left">
